@@ -1,0 +1,10 @@
+opencv-python
+torch
+onnxruntime-gpu
+PySide6
+pynput
+pynvml
+numpy
+mss
+loguru
+pyautogui
